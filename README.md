@@ -21,9 +21,6 @@ This project predicts water potability using Machine Learning and enhances resul
 docker pull riavarsha33/water-quality-ai  
 docker run -p 8501:8501 riavarsha33/water-quality-ai  
 
-Open in browser:  
-http://localhost:8501  
-
 ## SDG Goal
 SDG 6: Clean Water and Sanitation
 
