@@ -186,6 +186,7 @@ elif page == "Prediction":
         if prediction == 1:
             st.success("Water is SAFE")
             st.markdown("Risk Level: LOW")
+            st.write("Consumption Suggested")
         else:
             st.error("Water is NOT SAFE")
             st.markdown("Risk Level: HIGH")
