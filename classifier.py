@@ -9,7 +9,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
+# Model training logic for water quality prediction
 # In[36]:
 
 
