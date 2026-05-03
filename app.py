@@ -190,7 +190,7 @@ elif page == "Prediction":
         else:
             st.error("Water is NOT SAFE")
             st.markdown("Risk Level: HIGH")
-
+# Integrated LLM for explanation layer
         # -------- ALERT --------
         if prediction == 0:
             st.error("Alert: Unsafe water detected. Action required.")
